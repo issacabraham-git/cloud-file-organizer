@@ -8,7 +8,7 @@ import { getAnalytics } from "firebase/analytics";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  //apiKey: "AIzaSyCBKsjYnLbNGyN0R6CY-xBNdQcpy45sn4s",
+  //apiKey: "SPAM",
   authDomain: "chatapp-13244.firebaseapp.com",
   projectId: "chatapp-13244",
   storageBucket: "chatapp-13244.appspot.com",
